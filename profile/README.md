@@ -1,4 +1,6 @@
-## Hi AITrustRating.Com is a platform you can rate your favourate AI Project based on trust worthyness and relialbity of the project on a day to day workflow. We found out most AI projects are not production ready and are not trust worthy enough to handle real world situtions AITrustRating helps you understant that finding out how humans who have used the project on a day to day workflow rate it.👋
+## Hi AITrustRating.Com is a platform you can rate your favourate AI Project based on trust worthyness and production readyness of the project 👋
+
+We found out most AI projects are not production ready and are not trust worthy enough to handle real world situtions AITrustRating helps you understant that finding out how humans who have used the project on a day to day workflow rate it.
 
 <!--
 
