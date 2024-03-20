@@ -1,4 +1,4 @@
-## Find, Use and Rate favourate AI Tools on production readiness in AITrustRating 👋
+## AITrustRating is platform where you find and Rate favourate AI Tools based on production readiness 👋
 
 We found out most AI Tools are not production ready and are not trust worthy enough to handle real world conditions. In AITrustRating Platform you can find and rate your favourate AI Tools on prouduction readiness. 
 <!--
