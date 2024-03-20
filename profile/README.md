@@ -1,4 +1,4 @@
-## Find, Use and Rate favourate AI Tools on production readyness in AITrustRating 👋
+## Find, Use and Rate favourate AI Tools on production readiness in AITrustRating 👋
 
 We found out most AI projects are not production ready and are not trust worthy enough to handle real world conditions, AITrustRating helps you understant that finding out how humans who have used the project on a day to day workflow and how they rate it or as we say 
 
