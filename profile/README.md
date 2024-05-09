@@ -1,6 +1,7 @@
-## AITrustRating is platform where you find and Rate favourate AI Tools based on production readiness 👋
+# Saprative's Lab 
 
-We found out most AI Tools are not production ready and are not trust worthy enough to handle real world conditions. In AITrustRating Platform you can find and rate your favourate AI Tools on prouduction readiness. 
+Collection of random projects created by Saprative Jana or his ventures
+
 <!--
 
 **Here are some ideas to get you started:**
