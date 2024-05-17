@@ -1,6 +1,6 @@
-# Saprative's Lab 
+# DevLopLab
 
-Collection of random projects created by Saprative Jana or his ventures
+A Remote Tech Lab for Business Consultants and Digital Marketing Agency 
 
 <!--
 
