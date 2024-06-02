@@ -1,9 +1,12 @@
 # Saprative's Lab
 
 A Tech Lab by Saprative's Lab
-Schdedule a call - https://calendly.com/saprative
-Email - saprative@gmail.com
-Website - saprative.wordpress.com
+
+🙋‍♀️ Schdedule a call - https://calendly.com/saprative
+
+👩‍💻 Email - saprative@gmail.com
+
+🧙 Website - saprative.wordpress.com
 
 
 <!--
