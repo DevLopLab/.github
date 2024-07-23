@@ -6,7 +6,7 @@ DevLopLab - Your Remote Tech Lab
 
 👩‍💻 Email - contact@devloplab.com
 
-🧙 Website -devloplab.cmo
+🧙 Website - https://devloplab.coom
 
 
 <!--
