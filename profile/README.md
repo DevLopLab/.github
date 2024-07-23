@@ -1,12 +1,12 @@
-# Saprative's Lab
+# DevLopLab
 
-A Tech Lab by Saprative's Lab
+DevLopLab - Your Remote Tech Lab
 
-🙋‍♀️ Schdedule a call - https://calendly.com/saprative
+🙋‍♀️ Schdedule a call - https://devloplab.com/schedule-a-call
 
-👩‍💻 Email - saprative@gmail.com
+👩‍💻 Email - contact@devloplab.com
 
-🧙 Website - saprative.wordpress.com
+🧙 Website -devloplab.cmo
 
 
 <!--
